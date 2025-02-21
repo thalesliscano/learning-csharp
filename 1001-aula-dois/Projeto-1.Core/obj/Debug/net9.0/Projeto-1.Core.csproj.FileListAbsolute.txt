@@ -1,0 +1,15 @@
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\bin\Debug\net9.0\Projeto-1.Core.exe
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\bin\Debug\net9.0\Projeto-1.Core.deps.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\bin\Debug\net9.0\Projeto-1.Core.runtimeconfig.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\bin\Debug\net9.0\Projeto-1.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\bin\Debug\net9.0\Projeto-1.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.AssemblyInfoInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.AssemblyInfo.cs
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.csproj.CoreCompileInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.sourcelink.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\refint\Projeto-1.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\Projeto-1.Core.genruntimeconfig.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\Projeto-1.Core\obj\Debug\net9.0\ref\Projeto-1.Core.dll

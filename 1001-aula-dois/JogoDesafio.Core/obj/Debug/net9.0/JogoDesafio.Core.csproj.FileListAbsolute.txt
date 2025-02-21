@@ -1,0 +1,15 @@
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\bin\Debug\net9.0\JogoDesafio.Core.exe
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\bin\Debug\net9.0\JogoDesafio.Core.deps.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\bin\Debug\net9.0\JogoDesafio.Core.runtimeconfig.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\bin\Debug\net9.0\JogoDesafio.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\bin\Debug\net9.0\JogoDesafio.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.AssemblyInfoInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.AssemblyInfo.cs
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.csproj.CoreCompileInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.sourcelink.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\refint\JogoDesafio.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\JogoDesafio.Core.genruntimeconfig.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-aula-dois\JogoDesafio.Core\obj\Debug\net9.0\ref\JogoDesafio.Core.dll
