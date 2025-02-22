@@ -1,0 +1,15 @@
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\bin\Debug\net9.0\Projeto-numeroPar.Core.exe
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\bin\Debug\net9.0\Projeto-numeroPar.Core.deps.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\bin\Debug\net9.0\Projeto-numeroPar.Core.runtimeconfig.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\bin\Debug\net9.0\Projeto-numeroPar.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\bin\Debug\net9.0\Projeto-numeroPar.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.AssemblyInfoInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.AssemblyInfo.cs
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.csproj.CoreCompileInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.sourcelink.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\refint\Projeto-numeroPar.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\Projeto-numeroPar.Core.genruntimeconfig.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1002-aula-tres\Projeto-numeroPar.Core\obj\Debug\net9.0\ref\Projeto-numeroPar.Core.dll
