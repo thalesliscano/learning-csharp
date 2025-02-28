@@ -1,0 +1,15 @@
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\bin\Debug\net9.0\Desafio.Core.exe
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\bin\Debug\net9.0\Desafio.Core.deps.json
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\bin\Debug\net9.0\Desafio.Core.runtimeconfig.json
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\bin\Debug\net9.0\Desafio.Core.dll
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\bin\Debug\net9.0\Desafio.Core.pdb
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.AssemblyInfoInputs.cache
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.AssemblyInfo.cs
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.csproj.CoreCompileInputs.cache
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.sourcelink.json
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.dll
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\refint\Desafio.Core.dll
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.pdb
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\Desafio.Core.genruntimeconfig.cache
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1000-aula-um\Desafio.Core\obj\Debug\net9.0\ref\Desafio.Core.dll
