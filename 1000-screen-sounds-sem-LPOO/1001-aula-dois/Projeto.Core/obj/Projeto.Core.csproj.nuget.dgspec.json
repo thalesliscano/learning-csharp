@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THALINHO BAITOLA\\Documents\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj": {}
+    "C:\\Users\\thales.carvalho\\Documents\\program\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THALINHO BAITOLA\\Documents\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj": {
+    "C:\\Users\\thales.carvalho\\Documents\\program\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THALINHO BAITOLA\\Documents\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj",
+        "projectUniqueName": "C:\\Users\\thales.carvalho\\Documents\\program\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj",
         "projectName": "Projeto.Core",
-        "projectPath": "C:\\Users\\THALINHO BAITOLA\\Documents\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj",
-        "packagesPath": "C:\\Users\\THALINHO BAITOLA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THALINHO BAITOLA\\Documents\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\obj\\",
+        "projectPath": "C:\\Users\\thales.carvalho\\Documents\\program\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\Projeto.Core.csproj",
+        "packagesPath": "C:\\Users\\thales.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thales.carvalho\\Documents\\program\\learning-csharp\\1000-screen-sounds-sem-LPOO\\1001-aula-dois\\Projeto.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\THALINHO BAITOLA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thales.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
