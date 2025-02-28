@@ -1,0 +1,15 @@
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\bin\Debug\net9.0\Projeto.Core.exe
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\bin\Debug\net9.0\Projeto.Core.deps.json
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\bin\Debug\net9.0\Projeto.Core.runtimeconfig.json
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\bin\Debug\net9.0\Projeto.Core.dll
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\bin\Debug\net9.0\Projeto.Core.pdb
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.AssemblyInfoInputs.cache
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.AssemblyInfo.cs
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.csproj.CoreCompileInputs.cache
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.sourcelink.json
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.dll
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\refint\Projeto.Core.dll
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.pdb
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\Projeto.Core.genruntimeconfig.cache
+C:\Users\thales.carvalho\Documents\program\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\Projeto.Core\obj\Debug\net9.0\ref\Projeto.Core.dll
