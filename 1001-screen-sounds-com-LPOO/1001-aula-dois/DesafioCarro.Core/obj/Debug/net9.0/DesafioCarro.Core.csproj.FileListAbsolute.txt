@@ -1,0 +1,15 @@
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\bin\Debug\net9.0\DesafioCarro.Core.exe
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\bin\Debug\net9.0\DesafioCarro.Core.deps.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\bin\Debug\net9.0\DesafioCarro.Core.runtimeconfig.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\bin\Debug\net9.0\DesafioCarro.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\bin\Debug\net9.0\DesafioCarro.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.AssemblyInfoInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.AssemblyInfo.cs
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.csproj.CoreCompileInputs.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.sourcelink.json
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\refint\DesafioCarro.Core.dll
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.pdb
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\DesafioCarro.Core.genruntimeconfig.cache
+C:\Users\THALINHO BAITOLA\Documents\learning-csharp\1001-screen-sounds-com-LPOO\1001-aula-dois\DesafioCarro.Core\obj\Debug\net9.0\ref\DesafioCarro.Core.dll
